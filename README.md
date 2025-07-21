@@ -1,4 +1,13 @@
-# React + Vite
+# React + Vite Task -2 Hospital Management Dashboard
+
+
+
+<img width="1794" height="928" alt="Screenshot from 2025-07-20 23-24-12" src="https://github.com/user-attachments/assets/698539fb-e419-4c81-84de-ca9aff018d3f" />
+<img width="1850" height="1053" alt="Screenshot from 2025-07-19 21-44-33" src="https://github.com/user-attachments/assets/d2c77432-a849-48a4-9bef-1498ffe35c0d" />
+<img width="1850" height="1053" alt="Screenshot from 2025-07-19 21-44-27" src="https://github.com/user-attachments/assets/d9ece341-313b-4e15-b116-8511aaf97a09" />
+<img width="1850" height="1053" alt="Screenshot from 2025-07-19 21-44-22" src="https://github.com/user-attachments/assets/6234dbfd-77e2-444d-9d56-0f562399f443" />
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
